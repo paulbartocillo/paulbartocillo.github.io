@@ -19,6 +19,10 @@ body {
   text-align: center;
 }
 
+.container .header {
+	color: white;
+}
+
 .container .progress {
   margin: 0 auto;
   width: 400px;
